@@ -1,0 +1,29 @@
+[
+  {
+    "nama": "AKU",
+    "JK": "Laki-laki",
+    "jurusan": "Mesin",
+    "prodi": "TKJ",
+    "id": "Ex08H-QJrmplAI8Y",
+    "createdAt": "2022-12-13T06:49:48.688Z",
+    "updatedAt": "2022-12-14T03:26:17.686Z"
+  },
+  {
+    "nama": "Ayang",
+    "JK": "Perempuan",
+    "jurusan": "Mesin",
+    "prodi": "TKJ",
+    "id": "qXQd5HX9n5yQLS6D",
+    "createdAt": "2022-12-13T06:49:56.864Z",
+    "updatedAt": "2022-12-14T03:26:49.669Z"
+  },
+  {
+    "nama": "oiii",
+    "JK": "Perempuan",
+    "jurusan": "Mesin",
+    "prodi": "TKJ",
+    "id": "oHMMQWYZmhlDmatT",
+    "createdAt": "2022-12-14T03:48:01.493Z",
+    "updatedAt": "2022-12-14T03:48:19.974Z"
+  }
+]
