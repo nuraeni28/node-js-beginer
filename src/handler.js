@@ -94,7 +94,7 @@ const addMahasiswa = (request, h) => {
      const result = JSON.parse(dataMahasiwa);
     const index = result.findIndex((DataMahasiswa) => DataMahasiswa.id === id);
     // console.log(index);
-    if (index !== -2) {
+    if (index !== -1) {
       result[index] = {
         ...result[index],
         nama,
